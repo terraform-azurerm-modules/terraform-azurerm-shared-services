@@ -1,5 +1,7 @@
 # terraform-azurerm-vnet
 
+***Note that this repo may be deprecated as it does not give much more than the standard azurerm providers.***
+
 ## Description
 
 This Terraform module deploys a number of shared services that are common to a hub in a hub and spoke environment. Work in progress.
